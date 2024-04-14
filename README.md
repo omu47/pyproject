@@ -2,7 +2,8 @@
 tiny banking system
 # Python program to create Bankaccount class
 # with both a deposit() and a withdraw() function..
-after display 
-'#driver code'
+#after display 
+#'#driver code'
 executed
-next function call():)..
+#next function call():)..
+#now creating corresponding receipt generator
