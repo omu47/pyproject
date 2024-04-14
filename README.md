@@ -1,9 +1,5 @@
 # pyproject
-tiny banking system
-# Python program to create Bankaccount class
-# with both a deposit() and a withdraw() function..
-after display 
-'#driver code'
-executed next function call():)..
+1.tiny banking system
 2.now creating a sleep timer
-3.a  voice recoder using python
+3.a  voice recoder using python with comments help you to understand
+[install wavio scipy[$pip install wavio/$pip install scipy]]
